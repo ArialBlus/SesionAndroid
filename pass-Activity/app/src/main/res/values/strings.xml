@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PassActivity</string>
+
+    <string name="Siguiente">Correcto</string>
+    <string name="botonSiguiente">Siguiente</string>
+
+    <string name="activtyAnterior">Atras</string>
+    <string name="BotonAnterior">Anterior</string>
+
+
+</resources>
